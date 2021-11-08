@@ -1,3 +1,4 @@
+//comment in master branch
 public class ContactAndLeadSearch {
     public static List<List<SObject>> searchContactsAndLeads(String inputName) {
         List<List<sObject>> searchList = [FIND :inputName 
